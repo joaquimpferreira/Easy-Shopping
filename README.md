@@ -1,8 +1,10 @@
-<h1>Easy Shopping</h1>
+<h1 align="center">Easy Shopping</h1>
 
 <h4 align="center">
   Responsivity and CSS study project
 </h4>
+
+<img src="https://github.com/joaquimpferreira/easy-shopping/blob/main/img/pagina%20inicial%20PC.png?raw=true">
 
 
 <p align="center">
